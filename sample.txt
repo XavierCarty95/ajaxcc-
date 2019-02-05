@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 lorem ipsmon    
     withw
     withww
     withwww
     ww
     
+=======
+heyyyyyyy shit 
+>>>>>>> version1
