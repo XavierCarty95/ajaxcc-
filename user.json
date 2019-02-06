@@ -1,4 +1,5 @@
-{ "id":1, 
+{
+  "id":1,
   "name":"Rick",
-  "email": "rick@gmail.com"
+  "email":"rick@gmail.com"
 }
